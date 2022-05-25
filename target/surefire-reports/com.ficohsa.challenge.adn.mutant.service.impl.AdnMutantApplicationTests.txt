@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ficohsa.challenge.adn.mutant.service.impl.AdnMutantApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.38 s - in com.ficohsa.challenge.adn.mutant.service.impl.AdnMutantApplicationTests

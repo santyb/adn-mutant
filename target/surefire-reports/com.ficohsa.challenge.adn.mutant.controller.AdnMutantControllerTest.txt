@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ficohsa.challenge.adn.mutant.controller.AdnMutantControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.369 s - in com.ficohsa.challenge.adn.mutant.controller.AdnMutantControllerTest

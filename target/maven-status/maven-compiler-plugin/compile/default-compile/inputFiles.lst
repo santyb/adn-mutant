@@ -1,0 +1,12 @@
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\AdnMutantApplication.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\exceptions\BusinessException.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\service\impl\AdnMutantServiceImpl.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\controller\AdnMutantController.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\dto\request\AdnMutantRequest.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\enums\ValidLetters.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\service\AdnMutantService.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\constants\AdnMutantConstants.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\entity\Stats.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\dto\Response\AdnMutantCheckResponse.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\repository\StatsRepo.java
+C:\Users\LH961JJ\Downloads\adn-mutant\src\main\java\com\ficohsa\challenge\adn\mutant\dto\Response\AdnMutantResponse.java

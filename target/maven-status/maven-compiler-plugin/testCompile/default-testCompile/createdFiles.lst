@@ -1,0 +1,4 @@
+com\ficohsa\challenge\adn\mutant\controller\AdnMutantControllerTest.class
+com\ficohsa\challenge\adn\mutant\config\AdnMutantConfig.class
+com\ficohsa\challenge\adn\mutant\service\impl\AdnMutantApplicationTests.class
+com\ficohsa\challenge\adn\mutant\util\AdnMutantUtil.class
